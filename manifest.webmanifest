@@ -1,0 +1,20 @@
+{
+  "name": "Komunikator AAC",
+  "short_name": "AAC",
+  "description": "Prosty polski komunikator AAC z kafelkami, syntezą mowy i trybem telefonu.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f7f4",
+  "theme_color": "#256d7b",
+  "lang": "pl",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='84' fill='%23256d7b'/%3E%3Cpath d='M112 128c0-26 22-48 48-48h192c26 0 48 22 48 48v128c0 26-22 48-48 48H236l-76 68c-20 18-52 4-52-23V128z' fill='white'/%3E%3Cpath d='M166 158h180M166 214h128' stroke='%23256d7b' stroke-width='30' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
