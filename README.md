@@ -12,11 +12,11 @@ Prosta strona/aplikacja AAC po polsku: kafelki, budowanie wypowiedzi, synteza mo
 6. Po chwili strona będzie dostępna pod adresem:
 
 ```text
-https://mowik-by-miixer.github.io/komunikator-aac/
+https://miixer.github.io/mowik-aac/
 ```
 
-Jeśli repozytorium nazwiesz dokładnie `mowik-by-miixer.github.io`, strona będzie działała pod:
+Jeśli repozytorium nazwiesz dokładnie `https://miixer.github.io/mowik-aac/`, strona będzie działała pod:
 
 ```text
-https://mowik-by-miixer.github.io/
+https://miixer.github.io/mowik-aac/
 ```
